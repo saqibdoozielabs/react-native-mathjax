@@ -13,6 +13,9 @@
     "type": "git",
     "url": "git+https://github.com/calvinkei/react-native-mathjax.git"
   },
+  "dependencies": {
+    "react-native-autoheight-webview": "^1.5.8"
+  },
   "keywords": [
     "react",
     "native",
